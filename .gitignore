@@ -1,2 +1,8 @@
 # Ignorar arquivos de checkpoint do Jupyter Notebook
 .ipynb_checkpoints/
+
+# Ignorar arquivos de massa do diretório /data-samples
+/data-samples/empresas/
+/data-samples/estabelecimentos/
+/data-samples/socios/
+/data-samples/*.zip
